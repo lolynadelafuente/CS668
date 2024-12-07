@@ -9,4 +9,4 @@ The order to run the code is as follows:
 2. benchmark
 - This Python Notebook contains a small EDA part, followed by the whole process stated in the [Benchmark Solution Tutorial by DrivenDataLabs](https://drivendata.co/blog/predict-wind-speeds-benchmark/)
 - To ensure you have everything working locally and to start training and evaluating a pretrained CNN you should run it.
-- Disclaimer: This notebook is not a literal copy of the code in said article but follows the same order with some major adjustments in functions and extra code for better comprehension.
+- Disclaimer: This notebook is not an exact copy of the code in said article but follows the same order with some major adjustments in functions and extra code for better comprehension and replication.
