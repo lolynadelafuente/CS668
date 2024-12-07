@@ -1,3 +1,4 @@
+# This work was realized as part of the capstone project of the MS in Data Science at Pace University by Lolyna de la Fuente Ordaz
 # Libraries and Dependencies
 import boto3
 from botocore.exceptions import NoCredentialsError
