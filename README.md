@@ -17,5 +17,10 @@ Lolyna de la Fuente Ordaz
   - Then, a development of a deep learning model for objective estimation of tropical cyclone intensity using a pretrained convolutional neural network (CNN) on the satellite images. We used this approach as creating a new CNN from scratch would be too time consuming as well as the training.
   - Lastly, an extensive evaluation of the deep learning model and analysis of how well the model estimates wind speeds was performed. To calculate the loss in the model we used the Root-Squared Mean Error (RSME).
 * **Results:**
-  - 
-* **Poster** (as an image)
+  - The result is a submission.csv with the wind speed prediction for every image on our validation set.
+  - Also, for all models’ we used RSME to calculate their loss performance. At the bottom of this section we can see the visual of the comparison of the wind speed predicted values vs the true values of a random sample of 70 points.
+  - Even though there are some major differences, for our model ResNet_152, our RSME was 12.78.
+![image](https://github.com/user-attachments/assets/b7d193ad-4794-43b5-8677-509a2f4b8bc5)
+* **Poster**
+![CS668_Poster pptx](https://github.com/user-attachments/assets/75a6f53e-090e-4a4f-843b-631ffc511095)
+
