@@ -25,6 +25,7 @@ Lolyna de la Fuente Ordaz
     - ResNet_50: 11.61
     - EfficientNet_B0: 14.87
     - EfficientNet_B1: 11.96
+    - - EfficientNet_B1: 13.99
 ![image](https://github.com/user-attachments/assets/9da8100e-f468-47b8-a802-c54b9d834a00)
 * **Poster**
 ![CS668_Poster pptx (1)](https://github.com/user-attachments/assets/22dd442c-1a70-4632-9bb1-9d21cc02bb47)
