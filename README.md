@@ -11,10 +11,10 @@ Lolyna de la Fuente Ordaz
    * Each image is 366x366 pixels containing 4 features and 1 label.
    * The dataset is available here: [Tropical Cyclone Wind Estimation Competition](https://source.coop/repositories/nasa/tropical-storm-competition/access)
 * **Methodology:**
-  - The first step was the access to the dataset using S3 Client to make a copy of the Source Cooperative repository containing all images and .csv files.
-  - Then, a short EDA was conducted since what we are more interested in are the images and the data frames don’t hold that much information for a complete analysis.
-  - After, a preprocessing of the data was applied before the model creation. We confirmed all images were the same size as well as we joined both training csv files together.
-  - Then, a development of a deep learning model for objective estimation of tropical cyclone intensity using a pretrained convolutional neural network (CNN) on the satellite images. We used this approach as creating a new CNN from scratch would be too time consuming as well as the training.
+  - The first step was the access to the dataset using a Simple Storage Service (S3) compatible client to make a copy of the Source Cooperative repository containing all images and .csv files.
+  - Then, a short EDA was conducted since what we are more interested in are the images and the data frames don’t hold that much information for a complete analysis. An example of a graph made during this step is seen on the right. Additionally, all research questions were answered in this step.
+  - After, a preprocessing of the data was applied before the model creation. We confirmed all images were the same size as well as we joined both training .csv files together.
+  - Then, a development of a deep learning model for objective estimation of tropical cyclone intensity using a pre-trained convolutional neural network (CNN) on the satellite images. We used this approach as creating a new CNN from scratch would be too time consuming as well as the training.
   - Lastly, an extensive evaluation of the deep learning model and analysis of how well the model estimates wind speeds was performed. To calculate the loss in the model we used the Root-Squared Mean Error (RSME).
 * **Results:**
   - The result is a submission.csv with the wind speed prediction for every image on our validation set.
@@ -29,5 +29,6 @@ Lolyna de la Fuente Ordaz
     - EfficientNet_B3: 13.99
 ![image](https://github.com/user-attachments/assets/9da8100e-f468-47b8-a802-c54b9d834a00)
 * **Poster**
-![CS668_Poster pptx (1)](https://github.com/user-attachments/assets/22dd442c-1a70-4632-9bb1-9d21cc02bb47)
+![CS668_Poster pptx (2)](https://github.com/user-attachments/assets/e952afa0-0a6e-4e8b-8c34-eee212906df1)
+
 
