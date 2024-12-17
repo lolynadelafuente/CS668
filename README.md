@@ -1,6 +1,6 @@
 # Predicting Wind Speeds of Storms in the Atlantic and East Pacific Oceans using NASA IMPACT team and Radiant Earth Foundation satellite images
 
-Lolyna de la Fuente Ordaz
+Lolyna de la Fuente Ordaz, dlf.loly@gmail.com
 
 * *This work was realized as part of the capstone project of the MS in Data Science at Pace University.*
 * **Abstract:** Tropical cyclones are one of the costliest natural disasters globally. Determining an accurate tropical cyclone intensity helps better initialization in forecast models, leading to more accurate forecasts, more accurate historical records of tropical cyclones and providing consistent intensity estimates. The goal of this project is motivated by the contribution to public safety by improving storm predictions by apply machine learning and statistical models, potentially helping communities prepare for and respond to natural disasters.
