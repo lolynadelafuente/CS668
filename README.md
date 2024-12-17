@@ -29,6 +29,7 @@ Lolyna de la Fuente Ordaz, dlf.loly@gmail.com
     - EfficientNet_B3: 13.99
 ![image](https://github.com/user-attachments/assets/9da8100e-f468-47b8-a802-c54b9d834a00)
 * **Poster**
-![CS668_Poster pptx (2)](https://github.com/user-attachments/assets/e952afa0-0a6e-4e8b-8c34-eee212906df1)
+![CS668_Poster pptx (3)](https://github.com/user-attachments/assets/f2b6f2ab-4199-49b3-8759-ff3f2c3b1cb3)
+
 
 
